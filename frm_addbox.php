@@ -49,7 +49,7 @@
         <form action="add_box.php" method="POST" class="mb-10">
         <div class=" flex justify-center  ">
           <div class="mr-5">
-            <label for="apartment_name" class="block mt-2 text-sm font-bold mb-2">Apartment</label>
+            <label for="apartment_name" class="block mt-2 text-sm font-bold mb-2">Apartment surat</label>
 
             <input type="text" name="apartment_name"  class="shadow mt-2 appearance-none border  rounded  py-2 px-3 text-gray-700 mb-3 bg-[#fffde7] leading-tight focus:outline-none focus:shadow-outline " required>
           </div>
